@@ -5,6 +5,7 @@ its a simple slack bot that runs 24/7
 
 # Bot in action
 
+<img width="1704" height="1022" alt="Screenshot_20261011_220549_Chrome" src="https://github.com/user-attachments/assets/3aa34916-9ec7-4db0-b4b4-0766f9114cfd" />
 
 
 
